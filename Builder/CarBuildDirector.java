@@ -1,4 +1,4 @@
-public class CarBuildDirector {
+class CarBuildDirector {
 	private CarBuilder builder;
 	
 	CarBuildDirector(final CarBuilder builder) {
